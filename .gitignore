@@ -1,0 +1,16 @@
+# ambiente virtual
+venv/
+.env/
+
+# cache python
+__pycache__/
+*.pyc
+
+# cache de testes
+.pytest_cache/
+
+# arquivos de sistema
+.DS_Store
+
+# IDE
+.vscode/
